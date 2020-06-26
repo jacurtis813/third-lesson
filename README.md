@@ -9,3 +9,4 @@ Begin the third lesson with advanced CSS properties. Work with the box model, un
 * Begin with opening the new repository in github. Clone into desktop
 * Create the html file and the css file
 * Begin the lesson with fonts. Size, weight, family and etc.
+* Learn how to link font-family from external source. How to write them in css
