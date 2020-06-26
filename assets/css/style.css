@@ -1,0 +1,22 @@
+/* This is the start of style sheet */
+
+/* Starting with font-family */
+/* Font-size */
+
+/* pararaph style  */
+p {
+    font-family: Arial;
+}
+
+
+/* h1 style */
+h1 {
+    font-family: Georgia;
+    font-size: 85px;
+}
+
+/* sizing font with dynamic sizing. making the text within the span
+2.0 larger then its parent tag */
+span {
+    font-size: 2.0em;
+}
