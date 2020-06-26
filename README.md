@@ -10,3 +10,4 @@ Begin the third lesson with advanced CSS properties. Work with the box model, un
 * Create the html file and the css file
 * Begin the lesson with fonts. Size, weight, family and etc.
 * Learn how to link font-family from external source. How to write them in css
+* Begin box model. Learning about padding, margin, border, and more
