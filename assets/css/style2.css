@@ -11,6 +11,12 @@ P {
 /*table styles */
 /* this is to create our tic-tac-toe board */
 
+/* auto value will calculate how to center within the web page 
+this will happen automatically */
+table {
+    margin: auto;
+}
+
 td {
     width: 100px;
     height: 100px;
