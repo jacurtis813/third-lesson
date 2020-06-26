@@ -13,3 +13,4 @@ Begin the third lesson with advanced CSS properties. Work with the box model, un
 * Begin box model. Learning about padding, margin, border, and more
 * Create a second html page and a second css stylesheet for the box model
 * Create links for both the first and second web page
+* Perform the tic-tac-toe board challenge to better understand the positioning. (NOTE: you can apply two classes by class="first-name second-name"- just add the space do not add commas)
