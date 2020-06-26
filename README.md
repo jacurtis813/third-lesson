@@ -16,3 +16,4 @@ Begin the third lesson with advanced CSS properties. Work with the box model, un
 * Perform the tic-tac-toe board challenge to better understand the positioning. (NOTE: you can apply two classes by class="first-name second-name"- just add the space do not add commas)
 * Clean up HTML and CSS. Apply all comments and commit. 
 * Last step. Research/ Look up how to center the entire table in the web page. (NOTE: What we found was margin: auto; which will become responsive with the page when resizing the web browser)
+* using the css properties that we have learned, center all the content without changing previous css. 
