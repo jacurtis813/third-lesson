@@ -1,9 +1,15 @@
+/* this is style sheet 2 for html 2 */
+
+/* paragraph styles */
 
 P {
     width: 50%;
     height: 20%;
     border: 2px solid blue;
 }
+
+/*table styles */
+/* this is to create our tic-tac-toe board */
 
 td {
     width: 100px;
