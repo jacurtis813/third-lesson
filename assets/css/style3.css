@@ -1,1 +1,10 @@
 /* This is style sheet number 3 */
+
+img {
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+}
+
+/* Complete Understanding of float and how to use */
+

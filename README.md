@@ -18,3 +18,4 @@ Begin the third lesson with advanced CSS properties. Work with the box model, un
 * Last step. Research/ Look up how to center the entire table in the web page. (NOTE: What we found was margin: auto; which will become responsive with the page when resizing the web browser)
 * using the css properties that we have learned, center all the content without changing previous css. 
 * Begin the photo challenge assignment
+* Complete insight on how to use float and apply the margin
