@@ -1,2 +1,12 @@
 /* This is style sheet number 3 */
+div {
+    width: 100px;
+}
 
+#one {
+    background: red;
+}
+
+#two {
+    background: purple;
+}
