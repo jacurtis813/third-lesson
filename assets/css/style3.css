@@ -1,10 +1,22 @@
 /* This is style sheet number 3 */
 
+/* Image styles all */
 img {
     width: 30%;
     float: left;
     margin: 1.66%;
 }
 
+/* Welcome section styles */
+p {
+    width: 30%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 23px;
+    font-weight: 800;
+    margin-left: 1.66%;
+    text-transform: uppercase;
+    border-bottom: 3px solid rgba(50,50,50,.3);
+    padding-bottom: 10px;
+}
 /* Complete Understanding of float and how to use */
 
